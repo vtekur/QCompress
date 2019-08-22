@@ -1,6 +1,7 @@
 Our project's code is in two files: 
 - Demo_NoiseModel.ipynb
 - QAENoiseModelTests.nb
+
 These files are placed inside the examples folder (so that they have access to all of the required QCompress dependencies).
 All of the other files are part of the QCompress Project (https://github.com/hsim13372/QCompress) by Hannah Sim, which was used to help test our noise model simulation library.
 
